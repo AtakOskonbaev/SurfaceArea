@@ -13,7 +13,7 @@ This program demonstrates the principles of object-oriented programming (OOP) by
 
 ---
 
-This project serves as a hands-on example of how polymorphism can simplify complex interactions, making the code more flexible and easier to maintain. Dive into the code and explore how each shape brings its unique calculations to the shared interface! 🚀
+This project serves as a hands-on example of how polymorphism can simplify complex interactions, making the code more flexible and easier to maintain. Dive into the code and explore how each shape brings its unique calculations to the shared interface!
 
 #### **Examples:**
 
